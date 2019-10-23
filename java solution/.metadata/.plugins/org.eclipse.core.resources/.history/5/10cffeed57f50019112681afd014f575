@@ -1,0 +1,5 @@
+package com.macheye.nashorn.jsonparser;
+
+public class JsonTest {
+
+}

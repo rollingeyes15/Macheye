@@ -1,0 +1,13 @@
+package com.macheye.vamshi.json;
+
+/**
+ * Hello world!
+ *
+ */
+public class JSONParser 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}
